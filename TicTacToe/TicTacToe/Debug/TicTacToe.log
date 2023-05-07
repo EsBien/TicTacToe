@@ -1,0 +1,4 @@
+﻿  Game.c
+D:\שנה א-לימודים 2021\TicTacToe\TicTacToe\Game.c(138,32): warning C4133: 'function': incompatible types - from 'CELL [3][3]' to 'cell (*)[3]'
+D:\שנה א-לימודים 2021\TicTacToe\TicTacToe\Game.c(77): warning C4715: 'who_won': not all control paths return a value
+  TicTacToe.vcxproj -> D:\שנה א-לימודים 2021\TicTacToe\Debug\TicTacToe.exe
